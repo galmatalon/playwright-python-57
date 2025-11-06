@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2039","test_01_wizards[chromium]","tests","Thu Nov 06 16:53:30 UTC 2025","passed","Thu Nov 06 16:53:32 UTC 2025","Test1","test_sanity","",""
+"","279","test_02_wizards[chromium]","tests","Thu Nov 06 16:53:32 UTC 2025","passed","Thu Nov 06 16:53:32 UTC 2025","Test1","test_sanity","",""
+"","2096","test_03_wizards[chromium]","tests","Thu Nov 06 16:53:32 UTC 2025","passed","Thu Nov 06 16:53:34 UTC 2025","Test1","test_sanity","",""
